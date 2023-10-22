@@ -22,6 +22,6 @@ print(" ")
 print("======================================== ")
 print("Powered By: Rezweb.my.id ")
 
-print("Beta Version")
+print("Version : Beta Version")
 
 # Credit by: reztechcode
